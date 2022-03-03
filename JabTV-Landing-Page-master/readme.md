@@ -14,7 +14,7 @@ This is the [link](https://github.com/Ksound22/JabTV-Landing-Page) to the Github
 
 ## Sample Website
 
-A live demo is already available via this [link](https://xenodochial-poincare-9143f8.netlify.app)
+A live demo is already available via this [link](https://hardcore-perlman-f9de04.netlify.app/)
 
 ## Tech Stack
 
